@@ -2,3 +2,7 @@ lib
 bin
 inclde
 include
+eggs
+.installed.cfg
+develop-eggs/
+src/minitage.ohloh.egg-info/
