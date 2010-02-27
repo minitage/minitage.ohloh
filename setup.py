@@ -48,7 +48,10 @@ setup(
     install_requires = [
         'zc.buildout',
         'lxml',
-        'windmill'
+        'elementtree',
+        'windmill',
+        'zope.testbrowser',
+        #'oauth2',
     ],
     extras_require={'test': ['IPython', 'zope.testing', 'mocker']},
     entry_points = {
