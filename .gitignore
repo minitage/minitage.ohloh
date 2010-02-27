@@ -6,3 +6,5 @@ eggs
 .installed.cfg
 develop-eggs/
 src/minitage.ohloh.egg-info/
+*pyc
+config.cfg
